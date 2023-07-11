@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DatabaseSync",
+	"Description": "Retrieves and syncs data from a database",
+	"Category": "Other",
+	"CreatedBy": "Breda University of Applied Sciences - 2019-2020 - Y3 - Team 4",
+	"CreatedByURL": "http://www.buas.nl",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DatabaseSync",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

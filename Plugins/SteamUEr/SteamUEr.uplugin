@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SteamUEr",
+	"Description": "Fills some holes in the built-in Steam subsystem for Unreal Engine.",
+	"Category": "NT Entertainment",
+	"CreatedBy": "NT Entertainment",
+	"CreatedByURL": "",
+	"DocsURL": "http://nte.itch.io/steamuer",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SteamUEr",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
